@@ -1,0 +1,46 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ElementExists&Sequence_1",
+        "HourIncrement&Sequence_1",
+        "HourTracker&Sequence_1",
+        "DayTracker&Sequence_1",
+        "DayCounter&Sequence_1",
+        "HourCounter&Sequence_1",
+        "OutputFolderPath&Sequence_1",
+        "SourceDirectoryInfo&Sequence_1",
+        "InputFolderPath&Sequence_1",
+        "MaxRetry&Sequence_1",
+        "dtSettings&Sequence_1",
+        "DesiredNumberOfHashtags&Sequence_1",
+        "SelectedHashtags&Sequence_1",
+        "SelectedDescription2&Sequence_1",
+        "SelectedDescription1&Sequence_1",
+        "SelectedDescription3&Sequence_1",
+        "DayIncrement&Sequence_1",
+        "AccountHandle&Sequence_1",
+        "dtAccountsInformation&Sequence_1",
+        "dtTemp&Sequence_1",
+        "intCounter&Sequence_1",
+        "SelectedLocation&Sequence_1",
+        "strTemp&Sequence_1",
+        "dataRowTemp&Sequence_1",
+        "variable1&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

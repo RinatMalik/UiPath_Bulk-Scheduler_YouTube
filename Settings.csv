@@ -1,0 +1,7 @@
+﻿Name,Value
+Account Handle,Ministry Of Memes
+Input Folder Path,C:\Users\Local User\Documents\GitHub\UiPath_Bulk-Scheduler_YouTube\
+Output Folder Path,C:\Users\Local User\Documents\GitHub\UiPath_Bulk-Scheduler_YouTube\
+Day Increment,1
+Hour Increment,3
+Desired Number Of Hashtags,3
